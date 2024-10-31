@@ -1,7 +1,8 @@
 # HI. I'm Adam Crossland
 I am a software engineer and a manager of engineering teams. I care a lot about high quality software, fostering great teamwork experiences and making sure that engineers have career growth opportunities and well-balanced lives.
 
- I am Sr. Director of Engineering at [MarchingOrder.com](www.marchingorder.com), a truly great company doing truly wonderful things.
+I usually work in C#/.NET, Go, HTML, CSS, JavaScript.
+
 ## My repos
 Most of my projects are tools to assist folks with playing Tabletop Roleplaying Games over the net rather than an actual tabletop. My friends and I enjoy having weekly D&D games, but we are rarely able to be physically in the same place at the same time.
 
